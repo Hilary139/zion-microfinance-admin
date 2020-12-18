@@ -1,0 +1,24 @@
+.data{
+    text-align: center;
+}
+
+.register{
+    text-align: center;
+}
+
+.link{
+    text-align: center;
+    margin: 8% auto;
+    background: purple;
+    width: 300px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+}
